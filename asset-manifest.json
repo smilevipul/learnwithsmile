@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/learnwithsmile/static/css/main.fa6dc074.css",
+    "main.js": "/learnwithsmile/static/js/main.2236c670.js",
+    "static/media/about1.png": "/learnwithsmile/static/media/about1.faef2ef4dd9bffa547a5.png",
+    "index.html": "/learnwithsmile/index.html",
+    "main.fa6dc074.css.map": "/learnwithsmile/static/css/main.fa6dc074.css.map",
+    "main.2236c670.js.map": "/learnwithsmile/static/js/main.2236c670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6dc074.css",
+    "static/js/main.2236c670.js"
+  ]
+}
